@@ -73,9 +73,7 @@ indices = indices.reshape(16, 50)  # Top-50 indices per sequence
 ## Files
 
 - `fast_topk_batched.c` - Main implementation
-- `bin/` - Pre-compiled libraries
-- `examples/llama-cpp/` - llama.cpp integration
-- `benchmarks/topk_l10_audit.py` - Validation suite
+- `llama.cpp_example/` - files to try fast_top_batched on llama.cpp (windows)
 
 ## License
 
