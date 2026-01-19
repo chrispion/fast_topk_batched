@@ -4,11 +4,15 @@ High-performance batched Top-K selection for CPU inference. Optimized for LLM sa
 
 ## Performance
 
-**Up to 4x faster than PyTorch CPU, competitive with CUDA for small batches.**
+**Up to 80x faster than PyTorch CPU, competitive with CUDA for small batches.**
 
-### Benchmarks (K=50)
+### Benchmarks
 
-...
+![Latency Comparison](https://github.com/user-attachments/assets/eea97d33-92a0-4141-9370-c2a4b0dea28b)
+
+![Throughput Chart](https://github.com/user-attachments/assets/8cbd093a-f9f6-49a3-ac35-d35ec4bc2532)
+
+![Benchmark Results](https://github.com/user-attachments/assets/c692e282-a01b-4b02-81fc-01b093b91a35)
 
 | Implementation | Batch=1, Vocab=128K | Batch=64, Vocab=128K |
 |----------------|---------------------|----------------------|
